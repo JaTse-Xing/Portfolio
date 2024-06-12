@@ -11,17 +11,17 @@ const Footer = () => {
             </a>
           </p>
           <p className="font-semibold text-gray text-xs">
-            <a href="https://github.com/your-github-username" target="_blank" rel="noopener noreferrer" className="underline text-blue">
+            <a href="https://github.com/JaTse-Xing" target="_blank" rel="noopener noreferrer" className="underline text-blue">
               GitHub
             </a>
           </p>
-          <p className="font-semibold text-gray text-xs">
+          {/* <p className="font-semibold text-gray text-xs">
             <a href="https://twitter.com/your-twitter-username" target="_blank" rel="noopener noreferrer" className="underline text-blue">
               Twitter
             </a>
-          </p>
+          </p> */}
           <p className="font-semibold text-gray text-xs">
-            <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank" rel="noopener noreferrer" className="underline text-blue">
+            <a href="https://www.linkedin.com/in/jaspreet-singh-a1186424b/" target="_blank" rel="noopener noreferrer" className="underline text-blue">
               LinkedIn
             </a>
           </p>

@@ -48,7 +48,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Welcome to my portfolio, where I excel in full-stack web development, crafting seamless front-end interfaces and robust back-end solutions. I also specialize in shaders, adding mesmerizing visual effects to my projects. Explore my work to see the blend of functionality and aesthetic brilliance in every creation.
+        Welcome to my portfolio! I excel in full-stack web development, crafting seamless front-end interfaces and robust back-end solutions. I specialize in shaders, adding mesmerizing visual effects to my projects, and have extensive experience with Three.js, creating immersive 3D experiences. Explore my work to see the blend of functionality, aesthetic brilliance, and cutting-edge 3D technology in every creation.
       </motion.p>
 
       <div className='mt-25 flex flex-wrap gap-20'>
